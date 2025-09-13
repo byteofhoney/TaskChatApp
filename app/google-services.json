@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98027488169",
+    "project_id": "taskchatapp-404",
+    "storage_bucket": "taskchatapp-404.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98027488169:android:d9d4d669992172e4a33ab8",
+        "android_client_info": {
+          "package_name": "com.task.taskchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs-e00nxiQMXJIdlCudFUpRwo-bE3-swM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
